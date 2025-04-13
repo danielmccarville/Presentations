@@ -3,9 +3,8 @@ This repository contains PowerPoint and other materials from my public presentat
 
 Below is a brief summary of each file.
 
-## Innovation
-<ins> Managing Creativity and Innovation for GenAI </ins> <br>
-Filename: 2025-03 Creativity and Innovation<br>
+<ins><b> Managing Creativity and Innovation for GenAI </b></ins> <br>
+Filename: [2025-03 Creativity and Innovation](https://github.com/danielmccarville/Presentations/blob/main/2025-03%20Creativity%20and%20Innovation.pptx)<br>
 Creativity is the foundation for success with GenAI. Our biggest challenge isn't regulatory or technological: it's the ability to imagine new ways of working. This file includes:<br>
 + 3-part creativity model. Use it to understand why you are facing creative challenges and overcome them.
 + DISC personality model. Understand how your personality experiences creativity. Provides suggestions for innovating for each type.
